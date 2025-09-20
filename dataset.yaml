@@ -1,0 +1,22 @@
+train: /Users/roshani/Downloads/Automated Detection of Flower Buds and Growth Stages Using Deep Learning for Precision Agriculture/datasets/PlantVillage/train
+val: /Users/roshani/Downloads/Automated Detection of Flower Buds and Growth Stages Using Deep Learning for Precision Agriculture/datasets/PlantVillage/valid
+test: /Users/roshani/Downloads/Automated Detection of Flower Buds and Growth Stages Using Deep Learning for Precision Agriculture/datasets/PlantVillage/test
+
+nc: 15
+names: [
+  'Pepper__bell___Bacterial_spot',
+  'Pepper__bell___healthy',
+  'Potato__Early_blight',
+  'Potato__healthy',
+  'Potato__Late_blight',
+  'Tomato__Target_Spot',
+  'Tomato__Tomato_mosaic_virus',
+  'Tomato__Tomato_YellowLeaf__Curl_Virus',
+  'Tomato_Bacterial_spot',
+  'Tomato_Early_blight',
+  'Tomato_healthy',
+  'Tomato_Late_blight',
+  'Tomato_Leaf_Mold',
+  'Tomato_Septoria_leaf_spot',
+  'Tomato_Spider_mites_Two_spotted_spider_mite'
+]
